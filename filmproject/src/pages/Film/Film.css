@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.info>h1{
+    justify-content: center;
+    display: flex;
+    font-style: oblique;
+    color: rgb(0, 140, 255);
+}
+
+.info > img{
+    border: 2px solid  rgb(255, 153, 0); 
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.info> h3{
+    justify-content: center;
+    display: flex;
+    font-style: oblique;
+
+}
+
+.info> iframe{
+    width: 758px;
+    height: 500px;
+    border: 2px solid  rgb(255, 153, 0); 
+    border-radius: 10px;
+    padding: 10px;
+
+}
